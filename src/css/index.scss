@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+$sky: #CAEBF2;
+$carbon: #A9A9A9;
+$watermelon: #FF3B3F;
+$neutral: #EFEFEF;
+
+html{
+  background: $neutral !important;
+  color: $carbon !important;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  letter-spacing: 1px;
+}

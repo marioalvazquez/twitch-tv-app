@@ -1,0 +1,32 @@
+{
+  "name": "twitch-tv-app",
+  "version": "1.0.0",
+  "description": "Web App build with TwitchTV API for FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioalvazquez/twitch-tv-app.git"
+  },
+  "keywords": [
+    "FreeCodeCamp",
+    "TwitchTv",
+    "API",
+    "gulp",
+    "jQuery"
+  ],
+  "author": "Mario Vázquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioalvazquez/twitch-tv-app/issues"
+  },
+  "homepage": "https://github.com/marioalvazquez/twitch-tv-app#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
